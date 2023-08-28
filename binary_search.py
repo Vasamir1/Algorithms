@@ -25,7 +25,7 @@ def binary_search(arr, n, start, end):
                 return binary_search(arr, n, start, mid-1)
             #  If we did not type number to search exit with message
         except TypeError:
-            sys.exit("You can only search number.")
+            sys.exit("You can only search numbers.")
 
     return mid
 
