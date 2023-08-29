@@ -33,7 +33,7 @@ def binary_search(arr, n, start, end):
 test_example = [123, 323, 111, 213, 7, 8, 76655, 23, 9, 1, 313, 47, 82, 2, 1119, 666, 909, 89222, 143, 28]
 guess = 666
 
-#  Sort the array. Remember: binary search works with sorted arrays
+#  Sort the array. Remember: binary search works with sorted arrays. You can add "print" function to see array after sorting.
 test_example = sorted(test_example)
 
 #  Storing function in variable
