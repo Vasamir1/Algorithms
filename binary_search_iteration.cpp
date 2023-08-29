@@ -1,5 +1,5 @@
 /*
-Binary Search with iteration
+Simple binary search with iteration in C++
 */
 
 #include <algorithm>
