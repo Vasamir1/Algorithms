@@ -34,11 +34,11 @@ int binarySearch(int arr[], int start, int end, int n)
 
 int main()
 {
-    //  Array variable
+    //  Array variable and alculating length of it
     int numbers[12] = {223, 90, 73, 13, 8874, 7, 67, 24, 1212, 56, 48, 11};
     int length = sizeof(numbers)/sizeof(numbers[0]);
 
-    //  Looking number
+    //  Number we are looking for
     int n = 73;
     
     //  Sorting array
