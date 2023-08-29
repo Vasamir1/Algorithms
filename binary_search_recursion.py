@@ -1,5 +1,5 @@
 """
-Simple Binary Search with recursion
+Simple binary search with recursion in Python
 """
 import sys
 
