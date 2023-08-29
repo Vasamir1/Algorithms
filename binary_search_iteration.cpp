@@ -54,7 +54,7 @@ int main()
     int binSearch = binarySearch(numbers, 0, length-1, n);
 
     if (binSearch == -1){
-    cout << "There is not such a number in array." << endl;
+    cout << "There is no such number in given array." << endl;
     }
     else{
 cout << "The number "<< n << " is on the index "<< binSearch << "." << endl;
