@@ -1,5 +1,5 @@
 <h3 align=center>Basic Algorithms</h3>
-<p align=center>Basic algorithms in Python, C++ and JavaScript. Feel free to do with them whatever you want. I also commented algorithms with each step explained for better understaning procedure.</p>
+<p align=center>Basic algorithms in Python, C++ and JavaScript. Feel free to do with them whatever you want. I commented each step for better understaning.</p>
 <br>
 <div align=center>
   <p>I created this repository to practice algorithms, after I read this quote by <b>Richard P. Feynman</b>:<br><i>“All the time you're saying to yourself, 'I could do that, but I won't,' — which is just another way of saying that you can't.”.</i></p>
