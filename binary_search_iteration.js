@@ -1,5 +1,5 @@
 /*
-Simple binary search in JavaScript 
+Binary search in JavaScript 
 */
 
 
