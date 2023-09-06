@@ -14,9 +14,9 @@ def merge_sort(array):
         return array
     #  Else we should create new arrays from divided halves
     else:
-        #  Left side of the middle
+        #  Left side after dividing
         left_array = array[:mid]
-        #  And right side of the middle
+        #  And right side
         right_array = array[mid:]
 
         #  Time for recursion, so we will keep dividing our arrays into smaller ones (check: 'Divide and Conquer')
